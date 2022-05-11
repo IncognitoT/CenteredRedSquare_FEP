@@ -1,9 +1,0 @@
-.square {
-    width: 600px;
-    height: 600px;
-    background: red;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
